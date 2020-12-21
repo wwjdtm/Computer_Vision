@@ -1,3 +1,3 @@
-# Computer_Vision
+# ComputerVision
 
 
